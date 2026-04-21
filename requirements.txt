@@ -1,0 +1,17 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+pillow
+tqdm
+tabulate
+jupyter
+notebook
+ipywidgets
+torch
+torchvision
+torchmetrics
+wandb
+onnx
+openpyxl
